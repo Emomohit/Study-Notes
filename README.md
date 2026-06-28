@@ -23,6 +23,9 @@ Keeping my notes open-source helps me study anywhere and allows my peers to acce
 - **Engineering Mathematics (M3)**
   - MST Sample Papers
 
+- **PDF Generator Scripts**
+  - Included a collection of custom Python scripts I wrote to parse, format, and generate beautiful PDFs for these subjects!
+
 ## 🎯 Purpose
 By maintaining this repository, I am actively building my developer workflow, learning Git, and creating a green authentic contribution graph while organizing my academic life!
 
